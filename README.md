@@ -3,8 +3,8 @@
 # dotup-ts-json-rules
 Define rules with or without selectors and validate objects.
 
-## USAGE
-
+## SAMPLE USAGE
+ - https://github.com/dotupNET/dotup-ts-json-rules-sample
 
 ## TODO
 - Return a ValidationResult in JsonRules.IsValid
