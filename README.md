@@ -15,3 +15,6 @@ https://dotupnet.github.io/dotup-ts-json-rules/index.html
 
 ## repository:
 https://github.com/dotupNET/dotup-ts-json-rules
+
+## NPM:
+https://www.npmjs.com/package/dotup-ts-json-rules
