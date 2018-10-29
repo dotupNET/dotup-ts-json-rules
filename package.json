@@ -1,6 +1,6 @@
 {
   "name": "dotup-ts-json-rules",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Define rules with or without selectors and validate objects.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
