@@ -18,3 +18,5 @@ https://github.com/dotupNET/dotup-ts-json-rules
 
 ## NPM:
 https://www.npmjs.com/package/dotup-ts-json-rules
+
+npm i dotup-ts-json-rules
